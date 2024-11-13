@@ -20,13 +20,14 @@ AXELAS-RESORT-APP.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="Home.jpg">  
+<img src="assets/pictures/Home.jpg">
+<img src="assets/pictures/front.jpg">
 
 # Sign Up Screen
-<img src="Sign Up.jpg">  
+<img src="assets/pictures/Sign Up.jpg">  
 
 # Sign In Screen
-<img src="Sign In.jpg">  
+<img src="assets/pictures/Sign In.jpg">  
 
 # Tabs Screen
-<img src="tabs.jpg">  
+<img src="assets/pictures/tabs.jpg">  
